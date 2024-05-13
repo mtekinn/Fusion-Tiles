@@ -1,6 +1,6 @@
 # FusionTiles - A 2048 Clone
 
-FusionTiles is a fun and addictive number puzzle game inspired by the classic 2048 game. The objective of the game is to slide and combine tiles with the same numbers to create higher numbered tiles. The game ends when there are no more moves available on the grid.
+FusionTiles is a fun and addictive number puzzle game inspired by the classic 2048 game. The objective of the game is to slide and combine tiles with the same numbers to create higher-numbered tiles. The game ends when there are no more moves available on the grid.
 
 ## Features
 
@@ -39,7 +39,7 @@ To run FusionTiles on your local machine, follow these steps:
     open FusionTiles.xcodeproj
     ```
 
-3. Build and run the project on the simulator or a physical device.
+3. Build and run the project on a simulator or a physical device.
 
 ## Requirements
 
@@ -54,16 +54,13 @@ To run FusionTiles on your local machine, follow these steps:
 - `GameView.swift`: The main game view containing the grid and control buttons.
 - `GridView.swift`: The grid view displaying the tiles.
 - `TileView.swift`: The view for individual tiles.
-- `GameModel.swift`: The game logic including tile sliding, combining, and score tracking.
+- `GameModel.swift`: The game logic includes tile sliding, combining, and score tracking.
 - `TileModel.swift`: The model representing individual tiles.
 
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. Any contributions to improve the game are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -71,7 +68,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or feedback, please reach out to [tekinmdev@gmail.com](mailto:your.email@example.com).
 
 ---
 
